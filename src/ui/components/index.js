@@ -1,0 +1,3 @@
+//ES UN ARCHIVO DE BARRIL PARA EXPORTAR COMPONENTES
+
+export * from './Navbar.jsx';
